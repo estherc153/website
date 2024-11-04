@@ -1,0 +1,40 @@
+title {
+    font-size: 40px;
+
+}
+
+
+h1 {
+    border-style: solid;
+    border-width: 3px;
+    padding: 18px;
+    width: 1317px;
+    text-align: center;
+
+}
+
+div {
+    border-style: solid;
+    border-width: 3px;
+    padding: 18px;
+    width: 1317px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+
+body {
+    padding: 30px;
+    background-color: #ffffff
+
+
+  }
+
+stuff1 {
+    border-style: solid;
+    border-width: 3px;
+    padding: 18px;
+    width: 1317px;
+
+}
